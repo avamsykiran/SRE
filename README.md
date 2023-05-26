@@ -237,4 +237,23 @@ Docker
         3. docker offers its deployment on a varity of instrucments like eith on a physical machine,
             or on a virual machien or on a cloud ..et.,
 
-        4. docker contianers are very light weight and are scalble.
+        4. docker contianers are very light weight and are scalable.
+
+    Docker Installation
+
+        1. Setup the pre-required environment
+            for windows 
+                a) Hardware must support virtualization
+                b) Windows 11 / 10 pro is needed
+                c) Windows Hypervisor Package and WSL 3.0
+                        For WSL (open powershell in administraor mode)
+
+                            wsl --install
+
+                            restart the system and runt he below command to verify
+
+                            wsl -l -v 
+
+        2. Install Docker / DockerDesktop  = (Docker Engine and Docker CLI)
+
+    
