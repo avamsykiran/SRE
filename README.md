@@ -238,7 +238,7 @@ Docker
             or on a virual machien or on a cloud ..et.,
 
         4. docker contianers are very light weight and are scalable.
-
+   
     Docker Installation
 
         1. Setup the pre-required environment
